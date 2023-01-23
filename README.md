@@ -1,2 +1,2 @@
-## Hi i'm Espen 👋🏼
-# Frontend developer
+# Hi i'm Espen 👋🏼
+## Frontend developer
