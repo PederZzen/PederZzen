@@ -9,4 +9,4 @@
 💻 Currently working as a freelancer </br>
 🇳🇴 Based in Bergen, Norway </br>
 📬 Contact me at <a href="mailto:espenpede@rocketmail.com">espenpede@rocketmail.com</a></br>
-🎯 See my work at <a href="https://www.espenpedersen.no">Espenpedersen.no</a></br>
+🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></br>
