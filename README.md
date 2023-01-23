@@ -2,9 +2,9 @@
 
 <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Contact Me-red&style=for-the-badge">
+</a></br>
+<a href="mailto:espenpede@rocketmail.com">
+  <img src="https://img.shields.io/badge/Contact Me-red">
 </a>
 
 ## About me
