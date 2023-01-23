@@ -1,3 +1,2 @@
-# github-profile
-
-Coming soon, maybe...
+## Hi i'm Espen 👋🏼
+# Frontend developer
