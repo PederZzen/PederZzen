@@ -7,7 +7,7 @@
   <a href="mailto:espenpede@rocketmail.com">
     <img src="https://img.shields.io/badge/Contact Me-red">
   </a>
-</div
+</div>
 
 ## About me
 
