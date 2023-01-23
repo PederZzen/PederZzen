@@ -6,7 +6,7 @@
 
 ## About me
 
-💻 Currently working as a freelancer
-🇳🇴 Based in Bergen, Norway
-📬 Contact me at <a href="mailto:espenpede@rocketmail.com">espenpede@rocketmail.com</a>
-🎯 See my work at <a href="https://www.espenpedersen.no">Espenpedersen.no</a>
+- 💻 Currently working as a freelancer
+- 🇳🇴 Based in Bergen, Norway
+- 📬 Contact me at <a href="mailto:espenpede@rocketmail.com">espenpede@rocketmail.com</a>
+- 🎯 See my work at <a href="https://www.espenpedersen.no">Espenpedersen.no</a>
