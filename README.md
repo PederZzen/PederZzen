@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
 <a href="">
-  <img src="https://img.shields.io/badge/Contact Me-red">
+  <img src="https://img.shields.io/badge/Contact Me-red&style=for-the-badge">
 </a>
 
 ## About me
