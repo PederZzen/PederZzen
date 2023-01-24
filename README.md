@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:espenpede@rocketmail.com">
+  <a href="mailto:hello@espenpedersen.no">
     <img src="https://img.shields.io/badge/Contact Me-red">
   </a>
 </div>
@@ -12,5 +12,5 @@
 ## About me
 
 🇳🇴 Based in Bergen, Norway </br>
-📬 Contact me at <a href="mailto:espenpede@rocketmail.com">espenpede@rocketmail.com</a></br>
+📬 Contact me at <a href="mailto:hello@espenpedersen.no">hello@espenpedersen.no</a></br>
 🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></br>
