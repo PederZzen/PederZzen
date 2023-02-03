@@ -17,4 +17,4 @@
 
 ## My Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML-5 icon">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML-5 icon" style="width="50">
