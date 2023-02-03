@@ -14,3 +14,7 @@
 🇳🇴 Based in Bergen, Norway </br>
 📬 Contact me at <a href="mailto:hello@espenpedersen.no">hello@espenpedersen.no</a></br>
 🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></br>
+
+## My Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML-5 icon">
