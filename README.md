@@ -12,6 +12,8 @@
     </a>
   </div>
   
+  <p>I am a Frontend Developer from Norway. My purpose on this earth is to clean the web for ugly design and bad code.</p>
+  
   &nbsp;
   
   <h2>About me</h2>
