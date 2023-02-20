@@ -7,7 +7,6 @@
     <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
     </a>
-    
     <a href="mailto:hello@espenpedersen.no">
       <img src="https://img.shields.io/badge/Contact Me-red">
     </a>
