@@ -1,8 +1,6 @@
 <div align="center">  
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
-  
-  <h1>Hi I'm Espen 👋🏼 </h1>
-  
+    
   <div>
     <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
@@ -11,6 +9,8 @@
       <img src="https://img.shields.io/badge/Contact Me-red">
     </a>
   </div>
+  
+  <h1>Hi I'm Espen 👋🏼 </h1>  
   
   &nbsp;
   
