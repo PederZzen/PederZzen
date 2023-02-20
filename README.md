@@ -12,7 +12,7 @@
     </a>
   </div>
   
-  <p>I am a Frontend Developer from Norway. My purpose on this earth is to clean the web for ugly design and bad code.</p>
+  <p>I am a Frontend Developer from Norway. </br> My purpose on this earth is to clean the web for ugly design and bad code.</p>
   
   &nbsp;
   
