@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>Hi I'm Espen 👋🏼 </h1>
   
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
