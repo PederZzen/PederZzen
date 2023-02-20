@@ -1,4 +1,6 @@
-# Hi I'm Espen, a frontend developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+<div style="text-align: center;">
+# Hi I'm Espen, a frontend developer <br>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
 
 <div>
   <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
@@ -17,6 +19,8 @@
 
 ## **Toolbox**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=50">
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
+
+</div>
 
 
