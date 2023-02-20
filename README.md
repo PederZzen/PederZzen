@@ -1,5 +1,7 @@
-<h1 style="text-align: center;"> Hi I'm Espen, a frontend developer </h1>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+<div align="center">
+  <h1> Hi I'm Espen, a frontend developer </h1>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
