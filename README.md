@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> Hi I'm Espen, a frontend developer </h1>
+  <h1>Hi I'm Espen,</h1>
+  <h2>A Front-end Developer</h2>
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
 </div>
 
