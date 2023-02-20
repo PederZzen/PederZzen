@@ -12,6 +12,8 @@
     </a>
   </div>
   
+  &nbsp;
+  
   <h2>About me</h2>
   
   <p>🇳🇴 Based in Bergen, Norway</p>
