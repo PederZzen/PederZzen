@@ -15,9 +15,7 @@
   &nbsp;
   
   <h2>About me</h2>
-  
-  &nbsp;
-  
+    
   <p>🇳🇴 Based in Bergen, Norway</p>
   <p>📬 Contact me at <a href="mailto:hello@espenpedersen.no">hello@espenpedersen.no</a></p>
   <p>🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></p>
@@ -25,9 +23,7 @@
   &nbsp;
   
   <h2>Toolbox</h2>
-  
-  &nbsp;
-  
+    
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
   
 </div>
