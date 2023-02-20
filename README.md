@@ -1,5 +1,4 @@
-<div style="text-align: center;">
-# Hi I'm Espen, a frontend developer <br>
+<h1 style="text-align: center;"> Hi I'm Espen, a frontend developer </h1>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
 
 <div>
@@ -20,7 +19,3 @@
 ## **Toolbox**
 
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
-
-</div>
-
-
