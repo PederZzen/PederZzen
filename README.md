@@ -1,7 +1,7 @@
-<div align="center">
-  <h1>Hi I'm Espen 👋🏼 </h1>
-  
+<div align="center">  
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+  
+  <h1>Hi I'm Espen 👋🏼 </h1>
   
   <div>
     <a href="https://www.linkedin.com/in/espen-holm-pedersen-0a36a315a/">
