@@ -9,7 +9,6 @@
       <img src="https://img.shields.io/badge/Contact Me-red">
     </a>
   </div>
-  
   <h1>Hi I'm Espen 👋🏼 </h1>  
   
   &nbsp;
