@@ -17,4 +17,4 @@
 
 ## Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=4)]()
+<img style="height: 10px;" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress">
