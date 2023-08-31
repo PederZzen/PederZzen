@@ -18,7 +18,7 @@
   
   &nbsp;
       
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,next,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
   
 </div>
 
