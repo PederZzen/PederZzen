@@ -12,7 +12,7 @@
   
   &nbsp;
       
-  <p>🇳🇴 Front-end Developer based in Bergen, Norway</p>
+  <p>🇳🇴 Front-end Developer based in Oslo, Norway</p>
   <p>📬 Contact me at <a href="mailto:hello@espenpedersen.no">hello@espenpedersen.no</a></p>
   <p>🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></p>
   
