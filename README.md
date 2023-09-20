@@ -16,9 +16,6 @@
   <p>📬 Contact me at <a href="mailto:hello@espenpedersen.no">hello@espenpedersen.no</a></p>
   <p>🎯 See my work at <a href="https://www.espenpedersen.no">espenpedersen.no</a></p>
   
-  &nbsp;
-      
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,next,git,mongodb,mysql,netlify,nodejs,php,postman,react,sass,tailwind,vite,webpack,wordpress&perline=9">
   
 </div>
 
